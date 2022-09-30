@@ -1,5 +1,5 @@
 def printline():
-    print("_"*20)
+    print("*"*20)
 printline()
 
 def pattern(n):

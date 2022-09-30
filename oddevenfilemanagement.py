@@ -20,7 +20,7 @@ for i in l:
 data.close()
 odd.close()
 even.close()
-
+'''
 print("Data File Content")
 data=open("data.txt","r")
 print(data.read())
@@ -35,5 +35,5 @@ print("Odd File Content")
 odd=open("Odd.txt","r")
 print(odd.read())
 odd.close()
-
+'''
 
